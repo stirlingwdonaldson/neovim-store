@@ -16,7 +16,7 @@ export default function Component() {
   const product = {
     name: "NeoKeys Pro",
     description: "The ultimate mechanical keyboard for vim enthusiasts",
-    price: 79.99,
+    price: 9.99,
     image: "/placeholder.svg?height=400&width=600",
     specs: [
       "Cherry MX Blue switches",
